@@ -204,7 +204,7 @@
     "example": "コンセントが足りないので延長コードを使います。",
     "id": 23,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "スマート (sumaato)",
@@ -213,7 +213,7 @@
     "example": "彼はスマートな着こなしをしている。",
     "id": 24,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "テンション (tenshon)",
@@ -222,7 +222,7 @@
     "example": "ライブでテンションが上がった。",
     "id": 25,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "バイキング (baikingu)",
@@ -239,7 +239,7 @@
     "explanation": "カンニング means cheating on tests. (Set 2)",
     "example": "試験でカンニングしてはいけません。",
     "id": 27,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
